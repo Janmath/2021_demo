@@ -1,0 +1,16 @@
+{
+    "name": "janmath/2021-demo",
+    "description": "readme",
+    "authors": [
+        {
+            "name": "wanghuawei",
+            "email": "wanghuawei@gongchang.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/Demo"
+        }
+    }
+}
